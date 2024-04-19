@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using Leopotam.EcsLite;
 
-namespace SevenBoldPencil.EasyEvents
+namespace DemoRunnerECS._Project.Scripts.Core
 {
     /// <summary>
     /// Simultaneously there can be only one instance of this event type
